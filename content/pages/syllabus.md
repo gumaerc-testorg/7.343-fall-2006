@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 615427d5-d6d8-0d23-6178-e2623a1732ae
 ---
@@ -12,7 +14,7 @@ Lectures: 1 session / week, 2 hours / session
 Course Description
 ------------------
 
-The biological conversion of solar energy to chemical energy forms the basis of life as we know it. Knowledge of this fundamental process is critical to our understanding of the biogeochemical cycles that mitigate global warming. In this course, you will journey through the web of physical, chemical, and biological reactions that collectively constitute photosynthesis. We will begin with light harvesting and follow photons to the sites of primary photochemistry: the photoreaction centers. A molecular-scale view will show in atomic detail how these protein complexes capture and energize electrons. Then we will follow the multiple pathways electrons take as they carry out their work. Consequent reactions, such as the synthesis of ATP and the reduction of CO2 during the synthesis of carbohydrates, will also be discussed in structural detail. Lastly, we will delve into the evolution of these systems and also discuss other photosynthetic strategies, such as light-driven proton pumps and anoxygenic photosynthesis. The course will include a visit to an electron microscope to allow students to directly observe proteins involved in photosynthesis.
+The biological conversion of solar energy to chemical energy forms the basis of life as we know it. Knowledge of this fundamental process is critical to our understanding of the biogeochemical cycles that mitigate global warming. In this course, you will journey through the web of physical, chemical, and biological reactions that collectively constitute photosynthesis. We will begin with light harvesting and follow photons to the sites of primary photochemistry: the photoreaction centers. A molecular-scale view will show in atomic detail how these protein complexes capture and energize electrons. Then we will follow the multiple pathways electrons take as they carry out their work. Consequent reactions, such as the synthesis of ATP and the reduction of CO{{< sub "2" >}} during the synthesis of carbohydrates, will also be discussed in structural detail. Lastly, we will delve into the evolution of these systems and also discuss other photosynthetic strategies, such as light-driven proton pumps and anoxygenic photosynthesis. The course will include a visit to an electron microscope to allow students to directly observe proteins involved in photosynthesis.
 
 Course Format
 -------------

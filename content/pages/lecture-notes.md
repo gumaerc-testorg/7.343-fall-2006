@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c394bec4-deb7-495b-9865-7820562be748
 ---
@@ -52,7 +55,7 @@ Plants carry out one of the most difficult chemical reactions in biology: the ox
 Anoxygenic Photosynthesis
 {{< tdclose >}}
 {{< tdopen >}}
-Anoxygenic photosynthetic bacteria can use light energy to extract electrons from molecules other than water. This process does not evolve O2. In the paper of Post and Arieli, the ability of _P. hollandica_ to carry out anoxygenic photosynthesis under stressed conditions is examined. In the paper by Griesbeck, the enzymatic mechanism of sulfide-quinone reductase (SQR), which is essential for sulfide-dependent photosynthesis, is investigated.
+Anoxygenic photosynthetic bacteria can use light energy to extract electrons from molecules other than water. This process does not evolve O{{< sub "2" >}}. In the paper of Post and Arieli, the ability of _P. hollandica_ to carry out anoxygenic photosynthesis under stressed conditions is examined. In the paper by Griesbeck, the enzymatic mechanism of sulfide-quinone reductase (SQR), which is essential for sulfide-dependent photosynthesis, is investigated.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +79,7 @@ The first step in the conversion of light to chemical energy is the harvesting a
 Primary Photochemistry of Photosystems II
 {{< tdclose >}}
 {{< tdopen >}}
-Photosystem II (PSII) is the site of water oxidation. This reaction occurs through a highly choreographed cascade of oxidation/reduction reactions beginning with a specialized chlorophyll, P680, and ending with the oxidation of a special 4 manganese cluster that subsequently oxidizes water. The oxidation of water is not a single event but requires multiple rounds of photosystem turnover, of which there are five (S0\-S4) for each molecule of oxygen produced. In this session, we will discuss the various protein intermediates involved in the steps leading up to the oxidation of water as well as intermediates leading to the formation of the oxidized P680.
+Photosystem II (PSII) is the site of water oxidation. This reaction occurs through a highly choreographed cascade of oxidation/reduction reactions beginning with a specialized chlorophyll, P680, and ending with the oxidation of a special 4 manganese cluster that subsequently oxidizes water. The oxidation of water is not a single event but requires multiple rounds of photosystem turnover, of which there are five (S{{< sub "0" >}}\-S{{< sub "4" >}}) for each molecule of oxygen produced. In this session, we will discuss the various protein intermediates involved in the steps leading up to the oxidation of water as well as intermediates leading to the formation of the oxidized P680.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +91,7 @@ Photosystem II (PSII) is the site of water oxidation. This reaction occurs throu
 Primary Photochemistry of Photosystems I
 {{< tdclose >}}
 {{< tdopen >}}
-In this section we will discuss how charge separation occurs within photosystem I (PSI) and the use of the technique of electron paramagnetic resonance in detecting unpaired electrons and spin-correlated radical pairs. The rate of electron transport within PSI is mainly controlled by the flux of electrons transferred from PSII through the cytochrome _b6/f_ complex and by the activity of dark carbon metabolism that uses NADPH formed at the acceptor side of PSI. We will discuss nonphotochemical control of energy dissipation and photochemical activity in PSI using the paper by Rajagopal et al.
+In this section we will discuss how charge separation occurs within photosystem I (PSI) and the use of the technique of electron paramagnetic resonance in detecting unpaired electrons and spin-correlated radical pairs. The rate of electron transport within PSI is mainly controlled by the flux of electrons transferred from PSII through the cytochrome _b{{< sub "6" >}}/f_ complex and by the activity of dark carbon metabolism that uses NADPH formed at the acceptor side of PSI. We will discuss nonphotochemical control of energy dissipation and photochemical activity in PSI using the paper by Rajagopal et al.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +115,7 @@ The crystal structures of photosystems II and I represent the capstone of over 5
 Electron Transfer
 {{< tdclose >}}
 {{< tdopen >}}
-Electron transport from water to NADP+ requires three membrane-bound protein complexes operating in series- PSII, the cytochrome _b6/f_ complex and PSI. We will discuss how the very early events of photosynthesis are captured. We will also look at the structure of cytochrome _b6/f_ complex- the electronic connection between PSII and PSI.
+Electron transport from water to NADP{{< sup "+" >}} requires three membrane-bound protein complexes operating in series- PSII, the cytochrome _b{{< sub "6" >}}/f_ complex and PSI. We will discuss how the very early events of photosynthesis are captured. We will also look at the structure of cytochrome _b{{< sub "6" >}}/f_ complex- the electronic connection between PSII and PSI.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +139,7 @@ The conversion of proton electrochemical energy into chemical free energy is acc
 Carbon Fixation- Ribulose 1,5-Bisphosphate Carboxylase
 {{< tdclose >}}
 {{< tdopen >}}
-All plants and algae remove CO2 from the environment and reduce it to carbohydrate by the Calvin cycle. The first step is the addition of CO2 to a five-carbon compound: Ribulose 1,5-bisphosphate. This key reaction is catalyzed by Ribulose 1,5-bisphosphate carboxylase/oxygenase (Rubisco), which is the most abundant protein on earth. The structure, function and regulation of Rubisco will be discussed in this section.
+All plants and algae remove CO{{< sub "2" >}} from the environment and reduce it to carbohydrate by the Calvin cycle. The first step is the addition of CO{{< sub "2" >}} to a five-carbon compound: Ribulose 1,5-bisphosphate. This key reaction is catalyzed by Ribulose 1,5-bisphosphate carboxylase/oxygenase (Rubisco), which is the most abundant protein on earth. The structure, function and regulation of Rubisco will be discussed in this section.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +151,7 @@ All plants and algae remove CO2 from the environment and reduce it to carbohydra
 C-4 vs. C-3 Photosynthesis Pathways
 {{< tdclose >}}
 {{< tdopen >}}
-Some plants have developed a preliminary step to the Calvin Cycle (which is also referred to as a C-3 pathway). This preamble step is known as C-4. C-4 photosynthesis involves the separation of carbon fixation and carbohydrate synthesis in space and time. In doing so, the plant manages to raise the concentration of CO2 in certain cells to prevent photorespiration. Phosphoenolpyruvate (PEP) carboxylase is the enzyme that catalyzes the carbon fixation in the C4 pathway. We will discuss the effect of environment on the adoption of the C3 and C4 pathways as well as the allosteric regulation of PEP carboxylase.
+Some plants have developed a preliminary step to the Calvin Cycle (which is also referred to as a C-3 pathway). This preamble step is known as C-4. C-4 photosynthesis involves the separation of carbon fixation and carbohydrate synthesis in space and time. In doing so, the plant manages to raise the concentration of CO{{< sub "2" >}} in certain cells to prevent photorespiration. Phosphoenolpyruvate (PEP) carboxylase is the enzyme that catalyzes the carbon fixation in the C4 pathway. We will discuss the effect of environment on the adoption of the C3 and C4 pathways as well as the allosteric regulation of PEP carboxylase.
 {{< tdclose >}}
 
 {{< trclose >}}
