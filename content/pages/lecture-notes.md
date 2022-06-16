@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists lecture topics along with lecture summaries for each
+  lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -115,7 +117,7 @@ The crystal structures of photosystems II and I represent the capstone of over 5
 Electron Transfer
 {{< tdclose >}}
 {{< tdopen >}}
-Electron transport from water to NADP{{< sup "+" >}} requires three membrane-bound protein complexes operating in series- PSII, the cytochrome _b{{< sub "6" >}}/f_ complex and PSI. We will discuss how the very early events of photosynthesis are captured. We will also look at the structure of cytochrome _b{{< sub "6" >}}/f_ complex- the electronic connection between PSII and PSI.
+Electron transport from water to NADP{{< sup "\+" >}} requires three membrane-bound protein complexes operating in series- PSII, the cytochrome _b{{< sub "6" >}}/f_ complex and PSI. We will discuss how the very early events of photosynthesis are captured. We will also look at the structure of cytochrome _b{{< sub "6" >}}/f_ complex- the electronic connection between PSII and PSI.
 {{< tdclose >}}
 
 {{< trclose >}}

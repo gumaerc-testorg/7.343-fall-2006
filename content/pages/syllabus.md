@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course description, course format, expectations,
+  grading and evaluation and prerequisites for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
