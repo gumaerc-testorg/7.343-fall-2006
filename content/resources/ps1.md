@@ -5,6 +5,7 @@ file: /courses/7-343-photosynthesis-life-from-light-fall-2006/6a8cde461906f0de88
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 6a8cde46-1906-f0de-8850-4a441f666772
 ---
 Assignment instructions.
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_fern.jpg
 uid: 0442eff2-f40b-c593-7c89-56b547a699e6
 ---
 Photosynthesis is carried out by many different organisms, ranging from plants to bacteria. (Photo by Dr. Peter Weigele.)
-

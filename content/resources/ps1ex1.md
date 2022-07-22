@@ -5,6 +5,7 @@ file: /courses/7-343-photosynthesis-life-from-light-fall-2006/117f46c2a129dcf2e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1ex1.pdf
 uid: 117f46c2-a129-dcf2-e55d-d88c896dbce9
 ---
 Example of student work for the first assignment.
-
