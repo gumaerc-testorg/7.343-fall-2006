@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example of student work for the second paper assignment.
-file: /courses/7-343-photosynthesis-life-from-light-fall-2006/7850d9db6763e790149b090d6ae171d7_ps2ex1.pdf
+file: /ol-ocw-studio-app/courses/7-343-photosynthesis-life-from-light-fall-2006/7850d9db6763e790149b090d6ae171d7_ps2ex1.pdf
+file_size: 23262
 file_type: application/pdf
 learning_resource_types:
 - Assignments

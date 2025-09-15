@@ -2,7 +2,8 @@
 content_type: resource
 description: Photosynthesis is carried out by many different organisms, ranging from
   plants to bacteria. (Photo by Dr. Peter Weigele.)
-file: /courses/7-343-photosynthesis-life-from-light-fall-2006/0442eff2f40bc5937c8956b547a699e6_chp_fern.jpg
+file: /ol-ocw-studio-app/courses/7-343-photosynthesis-life-from-light-fall-2006/0442eff2f40bc5937c8956b547a699e6_chp_fern.jpg
+file_size: 47487
 file_type: image/jpeg
 image_metadata:
   caption: ''

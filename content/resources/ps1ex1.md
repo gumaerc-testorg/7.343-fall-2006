@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example of student work for the first assignment.
-file: /courses/7-343-photosynthesis-life-from-light-fall-2006/117f46c2a129dcf2e55dd88c896dbce9_ps1ex1.pdf
+file: /ol-ocw-studio-app/courses/7-343-photosynthesis-life-from-light-fall-2006/117f46c2a129dcf2e55dd88c896dbce9_ps1ex1.pdf
+file_size: 218895
 file_type: application/pdf
 learning_resource_types:
 - Assignments

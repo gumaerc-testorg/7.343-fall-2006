@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Assignment instructions.
-file: /courses/7-343-photosynthesis-life-from-light-fall-2006/6a8cde461906f0de88504a441f666772_ps1.pdf
+file: /ol-ocw-studio-app/courses/7-343-photosynthesis-life-from-light-fall-2006/6a8cde461906f0de88504a441f666772_ps1.pdf
+file_size: 31977
 file_type: application/pdf
 learning_resource_types:
 - Assignments
